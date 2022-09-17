@@ -1,4 +1,4 @@
-# main 메서드가 항상 public static인 이유
+# main 메서드가 항상 public static인 이유 
 
 > 자바 프로그래밍을 할 때 `main`을 치면 자동완성 되는 main 함수는 항상 `public static`입니다. 어느 새인가 아무 생각 없이 사용하고 있는데, 왜 반드시 `static` 함수이여야 하는 지 한번 정리해보고 싶습니다.
 > 
