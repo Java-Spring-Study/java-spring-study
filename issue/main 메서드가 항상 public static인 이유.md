@@ -35,7 +35,5 @@ cmd창에 java “메인 클래스”를 입력하면, JVM은 메인 클래스�
 ### 🙋‍♀️ 추가적으로 궁금한점 질문 [new]
 
 > 그렇다면 static으로 선언된 메서드들의 호출 순서는 어떻게 되나요?
+`static method` 는 사용자가 직접 호출하지 않는 이상 실행되지 않으며, 그저 함수일 뿐이다.
 
-JVM이 `main`으로 네이밍 된 메서드를 가장 먼저 호출한다. 그 후 다른 static 메서드들은 선언된 `순서대로` 호출된다.
-
-[https://it-mesung.tistory.com/86](https://it-mesung.tistory.com/86) → 관련 글
