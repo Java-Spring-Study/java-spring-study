@@ -1,6 +1,6 @@
 # Tomcat & Apache
 
-![image-20221109104325919](../../images/Tomcat & Apache 9cf5deaf93ea470bafed2f7eda806821/image-20221109104325919.png)
+![image](https://user-images.githubusercontent.com/97498405/200717471-8b627cc2-ec8e-419e-983f-2fad6ba95146.png)
 
 ### Q . 브라우저에서 localhost:8080을 입력했을 때 웹 페이지가 생성되는 과정을 공부하고 싶습니다. ( 톰캣과 아파치에서의 처리 과정을 살펴보고 싶습니다. )
 
@@ -83,7 +83,7 @@
 
 기본적으로 위처럼**아파치**와**톰캣**의 기능은 나뉘어져 있지만, **톰캣 안에 있는 컨테이너**를 통해 **일부**의 기능을 발휘하기 때문에 보통 **아파치 톰캣**으로 합쳐서 부르곤 한다.
 
-![image-20221109104402740](../../images/Tomcat & Apache 9cf5deaf93ea470bafed2f7eda806821/image-20221109104402740.png)
+![image](https://user-images.githubusercontent.com/97498405/200717532-a14c9a58-da55-4329-9653-5ddcb8fcc742.png)
 
 ## **사용자가 웹사이트 정보를 받아오는 과정**
 
